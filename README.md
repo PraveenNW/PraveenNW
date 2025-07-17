@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Hi, I’m Praveenkumar R
 
-<!--
-**PraveenNW/PraveenNW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Freelance Network & Web Hosting Engineer  
+🌍 Based in Tamil Nadu, India  
+🚀 Ready to relocate to UAE for a full-time job with visa sponsorship
 
-Here are some ideas to get you started:
+----------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 What I Do
+- 🛠️ LAN/WAN network setup (10–20 computers)
+- 🔐 RDP configuration & secure file sharing
+- 🌐 Website hosting using cPanel, DNS, SSL
+- ☁️ VPS & Linux server deployment
+- 🧰 Ongoing IT support for small businesses
+
+----------------------------------------------------------------------------------------------------
+
+🔧 Technical Skills
+`LAN / WAN` • `Routing / Switching` • `Windows Server` • `Cisco CLI` • `RDP`  
+`Linux` • `cPanel` • `VPS` • `Basic HTML/CSS` • `Packet Tracer`
+
+----------------------------------------------------------------------------------------------------
+
+📂 Projects & Work
+- 🌐 Hosted 2 client websites using cPanel + DNS
+- 🖥️ Configured secure remote access (RDP) for businesses
+- 💼 Freelance - resently work and completed worth ₹27,000+ (2.5 years)
+
+----------------------------------------------------------------------------------------------------
+
+🌍 Find Me Online
+[📧 Email Me](mailto:praveenkumarcse2001@gmail.com)  
+[🔗 LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
+[🌐 Portfolio Website](https://YOUR-PORTFOLIO-LINK)
+
+----------------------------------------------------------------------------------------------------
+
+💼 Open to Full-Time Work in UAE
+I’m actively seeking IT Support / Network Admin / Hosting roles with employment visa sponsorship.  
+Let’s connect!
