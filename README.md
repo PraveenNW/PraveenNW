@@ -1,9 +1,14 @@
 👋 Hi, I’m Praveenkumar R
 
 💼 Freelance Network & Web Hosting Engineer  
-🌍 Based in Tamil Nadu, India  
+🌍 Based in Tamil Nadu, India 
 🚀 Ready to relocate to UAE for a full-time job with visa sponsorship
 
+----------------------------------------------------------------------------------------------------
+
+🎓 Certification
+- Cisco Certified Network Associate (CCNA) – Issued April 2025
+  
 ----------------------------------------------------------------------------------------------------
 
 🧠 What I Do
