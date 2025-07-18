@@ -29,7 +29,7 @@
 📂 Projects & Work
 - 🌐 Hosted 2 client websites using cPanel + DNS
 - 🖥️ Configured secure remote access (RDP) for businesses
-- 💼 Freelance - resently work and completed worth ₹27,000+ (2.5 years)
+- 💼 Freelance - recently work and completed worth ₹27,000+ (2.5 years)
 
 ----------------------------------------------------------------------------------------------------
 
