@@ -35,7 +35,7 @@
 
 🌍 Find Me Online
 [📧 Email Me](mailto:praveenkumarcse2001@gmail.com)  
-[🔗 LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
+[🔗 LinkedIn](https://www.linkedin.com/in/praveenkumar-r-326789375)  
 [🌐 Portfolio Website](https://YOUR-PORTFOLIO-LINK)
 
 ----------------------------------------------------------------------------------------------------
